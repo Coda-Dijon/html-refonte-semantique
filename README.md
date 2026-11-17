@@ -1,8 +1,26 @@
-# Template de site statique HTML
+# Refonte sémantique
 
-Template de site HTML dans le cadre du cours des B1 2026
+**Durée** : 20 minutes — **En binôme**
 
-## Documentation
+## Consigne
 
-- [Activation du site via Github Pages](docs/Github-Pages.md)
-- [Lancer le site localement à l'aide d'un serveur HTTP](docs/Serveur-http.md)
+Reprendre la page HTML fournie dans `div-soup.html` composée uniquement de `<div>` et de classes CSS.
+
+La restructurer avec les balises sémantiques appropriées.
+
+## Ce qu'il faut faire
+
+| Étape | Action                                                                                       |
+|-------|----------------------------------------------------------------------------------------------|
+| 1     | Identifier les **zones principales** de la page (en-tête, navigation, contenu, pied de page) |
+| 2     | Remplacer les `<div>` par les **balises sémantiques** appropriées                            |
+| 3     | Corriger d'éventuels problèmes d'accessibilité des images ou liens                          |
+| 4     | Ajouter un lien d'évitement (skip link)                     |
+| 5     | Justifier **chaque choix** de balise en une phrase                                           |
+
+> [!tip]
+> Pensez aux landmarks : `header`, `nav`, `main`, `footer`, `article`, `section`.
+
+## Fichier de départ
+
+Ouvrez `div-soup.html` dans votre éditeur de code et travaillez directement sur ce fichier.
