@@ -24,3 +24,7 @@ La restructurer avec les balises sémantiques appropriées.
 ## Fichier de départ
 
 Ouvrez `div-soup.html` dans votre éditeur de code et travaillez directement sur ce fichier.
+
+## Bonus
+
+Si vous arrivez à utiliser uniquement des balises sémantiques (et pas de div). Tout en gardant l'apparence similaire.
